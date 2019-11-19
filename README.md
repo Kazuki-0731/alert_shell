@@ -14,3 +14,7 @@ afplay /System/Library/Sounds/Glass.aiff
 ```
 $ sh alerm.sh
 ```
+
+# 参考サイト
+* https://qiita.com/hid_tgc/items/a82e00112a3683ede528
+
